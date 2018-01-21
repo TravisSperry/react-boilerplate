@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/TravisSperry/react-boilerplate#readme",
   "dependencies": {
+    "browserify": "^15.2.0",
     "gulp": "^3.9.1",
     "gulp-connect": "^5.2.0",
-    "gulp-open": "^2.1.0"
+    "gulp-open": "^2.1.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^2.0.0"
   }
 }
