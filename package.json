@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "description": "boilerplate for a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisSperry/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "author": "Travis Sperry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisSperry/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/TravisSperry/react-boilerplate#readme"
+}
